@@ -1,0 +1,8 @@
+E:\SkyDrive\Documents\Visual Studio\2010\Minecraft Data Counter\obj\x86\Debug\Minecraft_Data_Counter.Resources.resources
+E:\SkyDrive\Documents\Visual Studio\2010\Minecraft Data Counter\obj\x86\Debug\Minecraft Data Counter.vbproj.GenerateResource.Cache
+E:\SkyDrive\Documents\Visual Studio\2010\Minecraft Data Counter\bin\Debug\Minecraft Data Counter.exe
+E:\SkyDrive\Documents\Visual Studio\2010\Minecraft Data Counter\bin\Debug\Minecraft Data Counter.pdb
+E:\SkyDrive\Documents\Visual Studio\2010\Minecraft Data Counter\bin\Debug\Minecraft Data Counter.xml
+E:\SkyDrive\Documents\Visual Studio\2010\Minecraft Data Counter\obj\x86\Debug\Minecraft Data Counter.exe
+E:\SkyDrive\Documents\Visual Studio\2010\Minecraft Data Counter\obj\x86\Debug\Minecraft Data Counter.xml
+E:\SkyDrive\Documents\Visual Studio\2010\Minecraft Data Counter\obj\x86\Debug\Minecraft Data Counter.pdb
